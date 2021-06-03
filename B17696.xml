@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God all in all, or, The kingdom of the Son deliver'd up to God, even the Father, by the Son himself being a sermon on the kingdom of God all in all, leading into an exacter and clearer discovery of the kingdom of Christ, upon that great context, I Cor. 15. 24, 28 &amp;c. / by T. Beverley.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 79KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17696</idno><idno type="EEBO-CITATION">8622331</idno>
+  <idno type="VID">204290</idno>
+  <idno type="EEBO-PROQUEST">2248511608</idno>
+  
+            <idno type="STC">Wing B2149</idno>
+            <idno type="OCLC">08622331</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204290)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1246:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God all in all, or, The kingdom of the Son deliver'd up to God, even the Father, by the Son himself being a sermon on the kingdom of God all in all, leading into an exacter and clearer discovery of the kingdom of Christ, upon that great context, I Cor. 15. 24, 28 &amp;c. / by T. Beverley.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Will. Marshal and John Marshal,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: A sermon on the kingdom of God all in all.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Kingdom of God.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204290:1"/>
+            <pb facs="tcp:204290:2"/>
+            <pb facs="tcp:204290:2"/>
+            <p>
+               <hi>God All in All:</hi> OR, THE Kingdom of the Son Deliver'd up to God, even the Father, By the Son Himself.</p>
+            <p>BEING A SERMON ON THE <hi>Kingdom of God All in All.</hi>
+            </p>
+            <p>Leading into an Exacter and Clearer Discovery of the Kingdom of Christ, upon that Great Con<g ref="char:EOLhyphen"/>text, 1 <hi>Cor.</hi> 15.24, 28. <hi>&amp;c.</hi>
+            </p>
+            <p>By <hi>T. BEVERLEY,</hi> a Companion in the Tribulation, and Patience of the Kingdom of Christ.</p>
+            <q>
+               <bibl>
+                  <hi>Revel. iii. 11.</hi>
+               </bibl>
+               <p>Behold I come quickly, hold fast that thou hast, that no Man take thy Crown.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Will. Marshal,</hi> at the <hi>Bible</hi> in <hi>New<g ref="char:EOLhyphen"/>gate-street,</hi> and <hi>John Marshal,</hi> at the <hi>Bible</hi> in <hi>Grace-Church-street,</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:204290:3"/>
+            <pb facs="tcp:204290:3"/>
+            <head>To the Honourable Sir <hi>THO. ROKEBY,</hi> One of the Judges of the <hi>Kings Bench.</hi>
+            </head>
+            <head type="sub">To the Honoured
+<list>
+                  <item>The Lady <hi>ROKEBY,</hi>
+                  </item>
+                  <item>Madam <hi>ROKEBY.</hi>
+                  </item>
+               </list>
+            </head>
+            <p>THE Obligations I have (most Ho<g ref="char:EOLhyphen"/>noured) to You, each in particu<g ref="char:EOLhyphen"/>lar, are very pressing upon me, to make Any, and the most Publick Acknowledg<g ref="char:EOLhyphen"/>ments I am able. But indeed I can sin<g ref="char:EOLhyphen"/>cerely profess it in his presence, who knows all Hearts, It is the abundant Knowledge I have of your Sense of, and Love to the Truths of the Gospel in your Hearts, and Converses, that hath Principally determin'd me to make a Pre<g ref="char:EOLhyphen"/>sentation to you of so singular an Evan<g ref="char:EOLhyphen"/>gelical
+<pb facs="tcp:204290:4"/>Doctrine, as the following Dis<g ref="char:EOLhyphen"/>course aspires to set forth in a True Gos<g ref="char:EOLhyphen"/>pel Light before You, and by You to the Churches of Christ, as a <hi>Crown</hi> of <hi>Memorial</hi> to you in the Temple of the Lord; In all constant Humblest Supplications for all Blessings, and of the <hi>Kingdom</hi> particularly, upon you, and your Honoured Relations, and with an especial Regard (Sir) to that Eminent Publick Station, God hath pleas'd to place you in; and in which, I may without any Sus<g ref="char:EOLhyphen"/>pition of Flattery say with <hi>Solomon, The City Rejoyceth in it. I am,</hi>
+            </p>
+            <closer>
+               <salute>Most Honoured,</salute>
+               <signed>Your most Affectionate, Obliged Servant, in our Lord Jesus, <hi>T. BEVERLEY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:204290:4"/>
+            <head>A SERMON ON THE <hi>Kingdom of God All in All:</hi> Leading into a Clearer Knowledge of the <hi>King<g ref="char:EOLhyphen"/>dom of</hi> Christ.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Cor. XV. 24.28.</hi>
+                  </bibl>
+                  <p>Then cometh the End, when He shall have Deli<g ref="char:EOLhyphen"/>vered up the Kingdom to God, even the Father. when he shall have put down All Rule, Authority and Power, er, <hi>&amp;c.</hi> And when All Things shall be Subject unto Him, <hi>(the Son,)</hi> Then shall the Son also Himself be subject to Him that put All Things under Him, that God may be All in All.</p>
+               </q>
+            </epigraph>
+            <p>THere are some Truths of Scripture▪ that though they cannot but be acknowledg'd Great, and High, and most Divine; yet have not been so Fully, and Particularly Inquir'd into, nor set in their own Light; but the Greatness of them hath rather Dazled, and kept even the Servants of Christ, much more the common Professors of Christianity, from too near Approaches, and from a close considera<g ref="char:EOLhyphen"/>tion
+<pb n="2" facs="tcp:204290:5"/>of Them. And this falls out especially when they are among (as They may be styled) The <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Points but once spoken of by way of Treaty of, or laying them down as Doctrine of Scripture. And such I esteem the <hi>Kingdom of God, All in All;</hi> Which is ve<g ref="char:EOLhyphen"/>ry Fully in this Great Context set before us, and no where else so Distinctly in the whole Book of God: And therefore it calls for a more Exact Research into it, it having not been so Fully Explicated.</p>
+            <p>There are Three Great Points I Aim at in the Fol<g ref="char:EOLhyphen"/>lowing Discourse hereof.</p>
+            <list>
+               <item>
+                  <hi>Point</hi> 1. To shew, <hi>That the Ʋltimate and Final Re<g ref="char:EOLhyphen"/>sult of all the whole State of Creation, and Redemption, is into this</hi> Kingdom of God, All in All.</item>
+               <item>
+                  <hi>Point</hi> 2. <hi>That the Absolutely Eternal Glory of Christ, the Mediator and his Saints, is in this Kingdom of God,</hi> All in All.</item>
+               <item>
+                  <hi>Point.</hi> 3. <hi>That the Kingdom of Jesus Christ, the King<g ref="char:EOLhyphen"/>dom of Redemption, is that Holy, most Wise, Prudent and Gracious</hi> Oeconomy, <hi>a</hi> Dispensation in the Fullness <hi>of</hi> Time, <hi>or of</hi> All Times, <hi>Preparatory to this</hi> Kingdom of God, All in All.</item>
+            </list>
+            <p>In every one of these Points, I will have due Regard to this so Grand Context of the Apostle, and endeavour therein to observe the Order and Scope of the Context in Every, Part of it.</p>
+            <p>But these are Points so Exceeding Great and High, that it may well be said in Relation to them, <hi>Who is sufficient for these things!</hi> They are <hi>High,</hi> and <hi>Deep, Long,</hi> and <hi>Broad, who can search them out to Perfection?
+<pb n="3" facs="tcp:204290:5"/>What can we Do? What can we Know?</hi> The very Be<g ref="char:EOLhyphen"/>holding Them a far off, may very well make him, that attempts to speak of them, cry out,<note place="margin">
+                  <hi>Prov.</hi> 30. 2, &amp;c.</note> as <hi>Solomon</hi> in his Contemplation of the Divine being; <hi>Surely I am more Brutish than any Man, and have not the under<g ref="char:EOLhyphen"/>standing of a Man; I neither learn'd Wisdom, nor have the Ʋnderstanding of the Holy.</hi> Thus he bewails Him<g ref="char:EOLhyphen"/>self in that Sense of his own Weakness, and Igno<g ref="char:EOLhyphen"/>rance, and Impurity, when he made but an Approach to the Excellency of, and Perfections of the Nature of God; <hi>Who hath ascended into Heaven</hi> to view and be<g ref="char:EOLhyphen"/>hold him; and <hi>descended,</hi> then to declare him? Who can give Account of him, who <hi>gathers the VVind in his Fists?</hi> Hath the most unaccountable Motions, or <hi>Phaenomens of Nature</hi> in his perfect Comprehension and Power; <hi>what is his Name, or his Son's Name, If thou canst tell?</hi> Who can speak of the Persons in the Divine Being, the <hi>Father,</hi> and the <hi>Son,</hi> and the <hi>Divine Spirit?</hi> How necessary therefore is that Admonition, and the Caution that Follows, On Humble Enquires, much more on Bold Examiners, and Positive Assertors: <hi>Every VVord of God is Pure,</hi> Purer than that the Quickest, Sharpest, most Refined Wit, or Spirit, or Reason can call it to Account; <hi>Add not then unto his words,</hi> lest <hi>He Reprove thee,</hi> and shew thee the Folly, and Fals<g ref="char:EOLhyphen"/>hood of thy own Reasonings, and Arguings, and thou be <hi>found a Lyar.</hi> But that this may not Deter us from having to do with so Holy a God, and so Sublime a Knowledge, as of Him, <hi>He is a Sheild,</hi> to Protect, and Secure those who put <hi>their Trust in Him,</hi> who Vale their Understandings to his Infinite Understanding, and with Lowest Obeysance of Spirit to his words.</p>
+            <pb n="4" facs="tcp:204290:6"/>
+            <p> Oh how necessary is this to the Converse of our Souls with this so High Truth, the <hi>Kingdom</hi> of God <hi>All in All!</hi> For if the Present State of Creation and Pro<g ref="char:EOLhyphen"/>vidence, much more of <hi>Redemption</hi> by Christ and the <hi>Kingdom of Redemption,</hi> are so Exalted above All Heights; Oh how much more is <hi>God All in All</hi> in that Pure and Perfect <hi>Kingdom of Eternity?</hi>
+            </p>
+            <p>There is great Danger indeed of <hi>Adding</hi> in such a Point, as this, to <hi>his Word,</hi> lest I be Found a <hi>Lyar;</hi> I shall therefore by his Grace, take heed to his Word, and to what I find in it, and keep close to it.</p>
+            <p>I Begin when with the First Point, to shew, <hi>That the Result of the whole State of Creation and Redemption, is into the</hi> Kingdom of God, All in All.</p>
+            <p>And herein I propose Three Things.</p>
+            <list>
+               <item>1. To enquire into the Sense of the Expression it self, <hi>God All in All.</hi>
+               </item>
+               <item>2. To shew, in what Sense the Kingdom of God, and God in it is <hi>All in All, from Eternity to Eternity.</hi>
+               </item>
+               <item>3. To Enquire, by the Word of God, In what Sen<g ref="char:EOLhyphen"/>ses That Kingdom of the <hi>Father</hi> is not now <hi>All in All;</hi> and therefore to shew, That is Senses opposite to those Senses, in which it is not now <hi>All in All, It shall</hi> be <hi>All in All,</hi> And God in it, <hi>All in All</hi> to Eternity, when the Kingdom shall be delivered up.</item>
+            </list>
+            <p>
+               <hi>First,</hi> Then to consider strictly, and closely this Ex<g ref="char:EOLhyphen"/>pression, <hi>God All in All,</hi> by comparing it with such in Scripture, as come near to it, and yet are not It: There are several Scripture Expressions, that Rise High to<g ref="char:EOLhyphen"/>ward this Sense, and yet do not come up to it, as
+<pb n="5" facs="tcp:204290:6"/>
+               <hi>Rom.</hi> 11. <hi>Last. Of Him, Through Him, to Him are All Things, to Him be Glory for Ever,</hi> 1 Cor. 8.6. <hi>To us there is one God the Father, of whom are All Things, and we of Him; And one Lord Jesus Christ, By whom are All Things, and we by Him,</hi> Eph. 4.6. <hi>One God, and Father of All, who is above All, through All, In you All,</hi> Heb 2.10. <hi>It became Him, by whom are All Things, and for whom are All Things.</hi> Now All these are Representati<g ref="char:EOLhyphen"/>ons of the Supreme Dominion, and I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fluence of the Divine Being throughout the whole Creation; and wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Particular Love, and Grace to His Redeemed in Christ; and of All Returning, and Redounding to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Glory. But though these make mention of God <hi>above All, in All, through All; All of Him, All by Him;</hi> Yet none of Them come up to that Height, <hi>All in All.</hi>
+            </p>
+            <p>There are two other Scripture Forms of speaking, that come nearer; yet they do not Fully Amount to this, <hi>God All in All;</hi> There is a Difference and I will endeavour to Find, wherein the Difference Lyes.</p>
+            <p>The First Scripture wherein we have a nearness, is, <hi>Colos.</hi> 3.11. <hi>Where there is neither Greek, nor Jew, Cir<g ref="char:EOLhyphen"/>cumcision, nor Ʋncircumcision, Barbarian, Scythian, Bond, nor Free,</hi> but <hi>Christ is All, and in All.</hi>
+            </p>
+            <p>A Second Expression of Scripture that comes yet nearer, is, <hi>Eph.</hi> 1. v. 23. <hi>The Fullness of Him, that (Filleth) All in All.</hi>
+            </p>
+            <p>But this Third Expression in the Text is, <hi>That God may (Be) All in All;</hi> Now to Ballane these Scriptures, and to see, wherein they agree, and wherein they dif<g ref="char:EOLhyphen"/>fer; I begin with the First of Them, <hi>Christ is All and in All;</hi> All outward distinctions are removed, and of no Value; <hi>Christ is All:</hi> Christ, as a Saviour, as a Redeemer, <hi>Jehovah</hi> our <hi>Righteousness;</hi> Christ by his
+<pb n="6" facs="tcp:204290:7"/>Spirit in the Great work of <hi>Sanctifica<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, Christ</hi> is <hi>All,</hi> plainly, and absolutely <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll;</hi> Chri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is <hi>Made to u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of God, Wisdom, Righteousness, Sanct fication, R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d mption,</hi> So he is <hi>All: I desire,</hi> therefore <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith the Apostle, <hi>to know nothing but Christ, and Him Cruc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</hi> All distinctions of an External Kind Avail Nothing, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rth, or Blood, <hi>Jew, Greek, Barbarian;</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ignities, or Abasedness of Con<g ref="char:EOLhyphen"/>dition, <hi>Bond, Free;</hi> Nothing of Ceremony, <hi>Circumcision,</hi> or <hi>Ʋncircumcision:</hi> Nay nothing of any Righteousness of our own; I count all that, faith the Apostle, No other, then <hi>Dross,</hi> then <hi>Filth,</hi> then <hi>Loss;</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Supre<g ref="char:EOLhyphen"/>macy</hi> of <hi>Knowledge</hi> is the <hi>Knowledge of Him: In Him are hid all the Treasures of Wisdom,</hi> and <hi>Knowledge, Viz.</hi> By way of Object, and Subject, every way; <hi>He is the Head of Principality,</hi> and <hi>Power,</hi> All Dignity, and Dominion are in Him; He is <hi>In Ʋs,</hi> the <hi>Hope</hi> of <hi>Glory,</hi> He is <hi>our Life:</hi> Thus He is plainly <hi>All;</hi> wholly, and fully <hi>All,</hi> All for Time, All for Eternity. But then the other Part of the Expression; <hi>And in All;</hi> That [<hi>And</hi>] Limits the Universality of the Proposition; It is not, <hi>All in All,</hi> but <hi>All,</hi> [And] <hi>In <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll.</hi> This is true, He is <hi>All,</hi> and He is <hi>In All;</hi> that is; <hi>In All,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat are His; There is a Communication of Himself; But it does not Rise to <hi>Fill All in All;</hi> He is, <hi>In All,</hi> tho not to perfection, yea, though with much Imperfection; For though Christ be All, and in his Saints; Yet still there is Great Reason of Complaint; There is Dark<g ref="char:EOLhyphen"/>ness, Notwithstanding all the Light, and Knowledge, that he Gives them; There is unbelief, Notwithstan<g ref="char:EOLhyphen"/>ding He is the Author of Faith; There is Remaining Corruption, although He is a Holy Saviour; <hi>And the Law of the Spirit of Life is in Him,</hi> and sets Free from the <hi>Law of Sin, and Death,</hi> as to the Guilt, and by
+<pb n="7" facs="tcp:204290:7"/>way of Beginning, as to the Corruption, and Power: So that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is <hi>All,</hi> and <hi>in All:</hi> But He is not <hi>All in All;</hi> Nor doth He <hi>Fill All in All,</hi> there is something, that is not His, or of Him, though, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e pardons it, and pu<g ref="char:EOLhyphen"/>rifies from it, and covers it. He Purifies from it, Yet there is something, that is not Christs; The Apo<g ref="char:EOLhyphen"/>stle says; <hi>Christ is in You, the Hope of Glory;</hi> And yet there is Notwithstanding, a Great Darkness concern<g ref="char:EOLhyphen"/>ing that State of Glory, There are many Fears, and Horrours in the Souls of Believers concerning their E<g ref="char:EOLhyphen"/>ternal condition, Notwithstanding <hi>Christ is in Them the Hope of Glory.</hi> So that though He is <hi>All,</hi> and <hi>in All,</hi> yet He is not <hi>All in All,</hi> because there is so much, that is not He, or of Him: So faith the Apostle, <hi>I de<g ref="char:EOLhyphen"/>sire to be found in Him, not having my own Righteous<g ref="char:EOLhyphen"/>ness; I count All but Dross, and Dung for the Excel<g ref="char:EOLhyphen"/>lency of the Knowledge of Him; I desire to know Him, and the Power of His Resurrection;</hi> Thus Christ is <hi>All,</hi> and <hi>in All;</hi> In the Apostle and yet not <hi>All</hi> in the Apostle; For he goes on; <hi>Not as though I had already attained, or were already perfect; But I follow after, if I may ap<g ref="char:EOLhyphen"/>prehend that, for which I am apprehended of Christ Jesus;</hi> Hereby it was plain Christ was <hi>All</hi> to the Apostle; and in the Apostle; but not All in the Apostle; for then he would have <hi>Attain'd,</hi> and <hi>Apprehended;</hi> Nor was All in the Apostle of Christ, for then he would not have said; <hi>Evil is present with me; and I find a Law in my Mem<g ref="char:EOLhyphen"/>bers,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 7,</note> For this we know is not Christ.</p>
+            <p>This therefore is the Consolation of Humble self-abased Christians, when they find, they are compassed about with many Infirmities, and Imperfections; when they have many Starts, Falls, and Failures, and are ready to conclude; They have none of <hi>Christ,
+<pb n="8" facs="tcp:204290:8"/>Christ</hi> is not in Them at All, because <hi>Christ</hi> is not All in Them; Because he does not <hi>Fill All in Them.</hi> But He is in his Saints, He is in every one of Them, Though He do not fill Them to Perfection in the present State; He is not to the Height, to the Fullness, to the Per<g ref="char:EOLhyphen"/>fection of what He Hunself is; Nor does He Fill All of Them; There remains much of Themselves in Them<g ref="char:EOLhyphen"/>selves: And if I apprehend aright, and I desire to wait upon Divine Illumination in it; The very words do carry this Sense: He is said to be <hi>All</hi> indeed; <hi>Wisdom, Righteousness, Sanctification, Redemption;</hi> And <hi>in All, In All</hi> His, He is thus: But He is not said to be All in any of Them; Because there is no Thing in Any one, that is to the Heighth, and Excellency, that is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou d in Jesus Christ; And much that is not at all of Christ; We have reason therefore of being Humbled, and Lying low in our selves continually, for though Christ be (as He is) <hi>All,</hi> and <hi>in All,</hi> yet He is not <hi>All in All,</hi> or in any One does He yet <hi>Fill All in All.</hi>
+            </p>
+            <p n="2">2. I come therefore to the Second Expression, which rises Higher then this; And it is the State undoubtedly of the <hi>Kingdom of our Lord Jesus Christ,</hi> as the Apo<g ref="char:EOLhyphen"/>stle does by the Contexture of his Words signify, <hi>Eph.</hi> 1.20, <hi>&amp;c. H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Raised Christ, and set him at his Right Hand, far above all Principality▪ and Power, and every Name, that is Named, not only in this World, but in that which is to Come; and hath put all Things under His Feet, and gave Him to be Head over All Things to His Church, the fullness of Him, which filleth All in All.</hi> Now although, It is True, Christ is now <hi>Head of the Church,</hi> and <hi>The Church is His Body;</hi> Yet there are some Expressions, that Lead us to the <hi>Kingdom of Christ,</hi> as what this Scripture is most properly Elevat<g ref="char:EOLhyphen"/>ed
+<pb n="9" facs="tcp:204290:8"/>for; as that; <hi>of the world to come,</hi> of which Christ is <hi>Called the Father,</hi> Esa. 9; and that of <hi>Head</hi> over <hi>All Things, and All Things put under His Feet;</hi> But saith the Apostle; <hi>we see not yet All Things put under his Feet,</hi> Nor is the <hi>Church</hi> yet, as It shall be, <hi>The Fullness of Him,</hi> and therefore He doth not yet, as He shall do in his Kingdom, <hi>Fill All in All,</hi> nor are <hi>All Things yet put under Him;</hi> as they shall be in <hi>That world to Come,</hi> whereof <hi>We,</hi> with the Apostle <hi>speak, Heb.</hi> 26, <hi>&amp;c.</hi> Christ therefore knowing the certainty of the Divine Decree in Relation to it, <hi>Sits Expecting, till his Enemies be made his Footstool;</hi> Therefore <hi>All Things</hi> are settled in the Decree, and Determination of God, yea, and in Regard of the Supreme Authority, with which Christ now Disposes All Events, and <hi>opens the Sealed Book</hi> to the very Last: He is set down on the <hi>Right of Majesty in the Heavens;</hi> and <hi>All Power in Heaven,</hi> and <hi>Earth is given to Him;</hi> But Notwithstanding the assurance beyond All possibility of doubt; That all Things shall be visibly <hi>put under Him,</hi> He doth not <hi>Fill All in All</hi> yet, nor doth He yet in Saints <hi>Fill All in All;</hi> But in His Kingdom, <hi>He shall Fill All in All;</hi> Every Thing, that shall be in that Blessed State of that <hi>Kingdom,</hi> shall be as Full of Christ, as it can hold; Every Saint shall be Full of Christ; The Spirits of Saints shall be Full of Christ, yea, the very Bodys of Saints shall be Full of Christ, <hi>Made like to his Glorious Body by that Power, that subdues All Things to it self.</hi> There shall be no<g ref="char:EOLhyphen"/>thing of Glory, Happyness, or Enjoyment, But it shall be Full of Christ; Even the very Creation shall be Full of Christ at that Time, and All shall be Full of the Acknowledgments of Christ.</p>
+            <pb n="10" facs="tcp:204290:9"/>
+            <p> Now this I desire very Humbly to propose to those, I speak to, as to the <hi>Wise,</hi> that they would <hi>Judge what I say;</hi> And I say, That the Spirit of God hath by this manner of Expression, shew'd a difference between the State of Saints, now, and the State They shall be in, in the Kingdom of Christ; Though Christ be <hi>All,</hi> now, <hi>And in All,</hi> yet He doth not <hi>Fill All in All,</hi> till the State of his Kingdom; Then every one of His shall be Pill'd with Him; Every one of the Happy, and the Blessed: Only <hi>Sathan is Sealed up;</hi> and the <hi>Wicked</hi> Rais'd, and yet <hi>Dead,</hi> because <hi>slain with the Sword of Christs Mouth,</hi> or Condemn'd by Him, are at the <hi>Four Corners of the Earth,</hi> and cannot stir beyond their Limits: Even they shall be Filled with the Indig<g ref="char:EOLhyphen"/>nation, and Power of Christ.</p>
+            <p>For God hath in his Infinite Wisdom, and Under<g ref="char:EOLhyphen"/>standing, In his <hi>Wisdom</hi> and <hi>Prudence,</hi> wherein He hath abounded towards us, <hi>viz.</hi> Saints, as the Apo<g ref="char:EOLhyphen"/>stle speaks, <hi>Ephes.</hi> 1.10. He hath prepared an <hi>Oeconomy,</hi> or <hi>Dispensation,</hi> wherein, as in the <hi>Fullness</hi> of <hi>Times,</hi> or of <hi>All Time</hi> He will Recapitulate, or bring under one Head, <hi>viz.</hi> Our Lord Jesus Christ, All Things <hi>in Heaven, and Earth; In Him, even in Him.</hi> Whate<g ref="char:EOLhyphen"/>ver then is restored, or under the Restitution of his Kingdom shall be Full of Him, as the Redeemer, and as the Son of Man; And <hi>All Things are put under His Feet,</hi> and nothing <hi>Excepted, but He, who did put All Things under Him.</hi> Again in another Scripture, the Apostle shows, how every thing shall be full of Christ, <hi>Phil.</hi> 2.9, 10. <hi>As Christ humbled himself and became Obedient to Death, even to the Death of the Cross, So God hath Highly Exalted Him, and given him a Name above every Name; That at the Name of Jesus every
+<pb n="11" facs="tcp:204290:9"/>Knee should Bow, both of Things in Heaven, and Things on Earth, and of Things under the Earth, and that every Tongue should confess, that Jesus Christ is Lord to the Glory of God the Father;</hi> This is the Wise and Holy <hi>Oeconomy</hi> of the Father; That as there was a with<g ref="char:EOLhyphen"/>drawing of the Divine Glory, that there might be Humiliation, and the Death of the Lord Jesus; So there is an <hi>Oeconomy,</hi> or <hi>Dispensation,</hi> wherein the Di<g ref="char:EOLhyphen"/>vine Glory will withdraw it felf, so, that the Glory of the Mediator may be seen in his Humane Nature; And this is Represented by the <hi>Rainbow</hi> so often made use of, when the Glory of Christ, as the <hi>Son of Man</hi> is display'd; The Splendor, and Colours of which must be seen at the other End of Heaven from the Sun, and yet it is to the Glory of the Sun, from whose Beams, the Beauty Springs: Even as this Glory of Christ in Humane Nature, as its Highest Exaltation, as Lord, the Great <hi>Adonai,</hi> is to the Glory of God the Fa<g ref="char:EOLhyphen"/>ther, From whom this Glory Derives, So that He is still <hi>Excepted,</hi> who <hi>put All Things under Him;</hi> In the <hi>Throne</hi> He is <hi>Above Him; The Throne of God</hi> and of the <hi>Lamb,</hi> are in the <hi>New Jerusalem;</hi> First of God, then of the Lamb.</p>
+            <p>Now in this State All is Full of Christ, full of His <hi>Name,</hi> In it <hi>every Knee Bows down, Things in Hea<g ref="char:EOLhyphen"/>ven,</hi> and <hi>Earth,</hi> and <hi>under the Earth,</hi> even to the Lowest Hell; and every <hi>Tongue Confesses He is Lord;</hi> There is an Absolute necessity Lying upon All, Even Devils, to Acknowledg Christ. But Angels and Saints, and even the Restored, Restituted Creation, are full of Christ and his Redemption; And therefore in the <hi>Re<g ref="char:EOLhyphen"/>velation,</hi> That Book of the <hi>Kingdom of Christ,</hi> we have this <hi>Vision</hi> of it, <hi>Cap.</hi> 5.11. John <hi>Beheld, and
+<pb n="12" facs="tcp:204290:10"/>heard the Voice of the Innumerable Company of Angels, saying with a Loud Voice, Worthy is the Lamb that was slain to receive Power,</hi> and <hi>Riches,</hi> and <hi>Wisdom,</hi> and <hi>Strength,</hi> and <hi>Power,</hi> and <hi>Glory,</hi> and <hi>Blessing;</hi> and every <hi>Creature, which is in Heaven,</hi> and <hi>on the Earth,</hi> and <hi>un<g ref="char:EOLhyphen"/>der the Earth,</hi> and <hi>such as are in the Sea,</hi> and <hi>All that are in Them, heard I saying, Blessing,</hi> and <hi>Honour,</hi> and <hi>Power be unto Him that sitteth on the Throne;</hi> observe, <hi>He is Excepted, that put All things under Him: In the Throne He is above Him:</hi> and <hi>unto the Lamb for ever</hi> and <hi>ever;</hi> All is full of Christ; <hi>And the four Living Creatures, and the Four and Twenty Elders fell Down, and Worshipped Him, that Liveth for ever, and ever,</hi> the Divine Being, both in Him that <hi>Sitteth on the Throne,</hi> and in the <hi>Lamb.</hi> And thus I am perswaded, the Divine Spirit hath Reveal'd to us that distinct Kingdom of the Glorified <hi>Son of Man,</hi> the Eternal Son of God in Humane Nature; Although I know it is not generally understood, nor accepted, no not by Persons of very Great Intelligency, and Learning, and Holy<g ref="char:EOLhyphen"/>ness; They do not see this distinct Kingdom of the Lord Jesus Christ: But yet filling is not so much as being <hi>All in All,</hi> as is to be further said.</p>
+            <p>And so I have opened the Second Expression of Scrip<g ref="char:EOLhyphen"/>ture, coming nearest to that here before us, <hi>God All in All.</hi>
+            </p>
+            <p>I come therefore to the very Expression it self be<g ref="char:EOLhyphen"/>fore us, Gods being <hi>All in All,</hi> Or, That God may be <hi>All in All;</hi> When therefore it is said, <hi>God is All in All,</hi> It plainly exceeds the Expression, <hi>Christ is All and in All,</hi> because that Limiting word, <hi>And,</hi> is left out, For God <hi>All,</hi> Immediately flows into <hi>All;</hi> It exceeds the second Expression; <hi>Fills All,</hi> because to <hi>Fill All in
+<pb n="13" facs="tcp:204290:10"/>All</hi> is not so High, and Deep, as to be <hi>All in All,</hi> for Being is more Intimate, then <hi>Filling,</hi> and it is more permanent, and Immutable; and therefore is most Ad<g ref="char:EOLhyphen"/>mirably suited to the <hi>Eternal Kingdom</hi> of the Father, as <hi>Filling</hi> is most agreeable to that Kingdom of Christ, that is to be <hi>delivered up.</hi> The summ therefore is this, That when the Word of God tells us, God is All in All. It gives Assurance that the Divine Being it self, Communicates it self to the utmost, that Finite Be<g ref="char:EOLhyphen"/>ings are capable of, next to that of the Hypostatical U<g ref="char:EOLhyphen"/>nion of the Humane Nature of Christ to the Eternal Word, the Son of the Father.</p>
+            <p>I come therefore to the Second General Point; To shew, in what sense the Kingdom of God, and God in it, is <hi>All in All,</hi> From Eternity to Eternity: And if by the Assistance of God, I shall be able in any measure to express to you, how God is thus <hi>All</hi> in <hi>All,</hi> which is the Highest Expression, Words can reach unto, I shall do it with All Humility, and without Daring to be too positive in Particulars; But in General I look upon it to be the mind of Scripture; To signify to us; That it is the Essential Glory of the Divine Being Commu<g ref="char:EOLhyphen"/>nicating Himself, Immediately by Himself, to those, whom he will make for ever Blessed with Himself; That He not only <hi>Fills All in All;</hi> But He is <hi>All in All.</hi>
+            </p>
+            <p n="1">1. In the First Place, I would desire it should be al<g ref="char:EOLhyphen"/>ways understood; That, when we speak of God <hi>All in All;</hi> It is to be understood of the <hi>Eternal Father, the Eternal Word, the Eternal Spirit,</hi> who are <hi>One,</hi> Who are this <hi>One God All in All;</hi> For if we were not thus to understand; We should lose that Great Point of Scripture; That it is the supreme Glo<g ref="char:EOLhyphen"/>ry,
+<pb n="14" facs="tcp:204290:11"/>Perfection, and Fullness of the Divine Being, that <hi>the Father, the Word, and the Spirit, are the One God.</hi>
+            </p>
+            <p>Indeed, the Majesty of Scripture is seen in that very Manifestation of the Divine Being; In the Majesty of the Father, as most Glorious, and Becoming the General way of speaking of the <hi>One God,</hi> and yet abundantly revealing the Eternal Son, and Spirit, one with Him: For it is the Majesty of the Father, Son, and Spirit, that is beheld in the Majesty of the Father; And it is very observable, that in <hi>v.</hi> 24. of this Chapter: The Apostle speaks of the <hi>Kingdom delivered up to God, even the Father,</hi> wherein the Son, and the Spirit are not Excluded; But it is the Glory of the Divine Being, that the Unity and Majesty of the Son, and of the Spirit, are beheld in the <hi>Father;</hi> In the <hi>Delivering</hi> up of the <hi>Kingdom to God, even the Father,</hi> is be<g ref="char:EOLhyphen"/>held the Delivery of it up to the Son, and to the Spirit.</p>
+            <p>But because, This I know, no one is able to declare, I will leave it in this General Expression; <hi>The Father, God All in All,</hi> necessarily Including, according to Scripture, the Son, and the Spirit; Every where made known One with the Father, and in Relation to whom He is manifested and called the Father.</p>
+            <p>That therefore which is so Great a mystery now to us, and that we stand at a distance from, and Adore, and Humbly Admire, and are even Amaz'd at the Glory; When we come into that <hi>Kingdom,</hi> that is de<g ref="char:EOLhyphen"/>liver'd up, even the <hi>Kingdom of our Lord Jesus Christ,</hi> which is, as is further to be shewn, to prepare for it, we shall understand the Glory of the Divine <hi>Father, Word,</hi> and <hi>Spirit;</hi> and in the understanding of it, be by
+<pb n="15" facs="tcp:204290:11"/>our Lord delivered up into it, and Enjoy it for ever, as Fully, as Finite Beings can Enjoy and Infinite.</p>
+            <p n="2">2. That we may understand in what Sense, the Di<g ref="char:EOLhyphen"/>vine Being in the <hi>Father,</hi> the <hi>Word,</hi> and <hi>Spirit,</hi> the one God is <hi>All in All,</hi> and King from Eternity to Eternity, Essentially, and Eternally, It is this; That, Being it self, and whatever Beings can be supposed, they are All in God; and throughout the whole possibility of being, God is; Because he himself is Being, and all Being it self; And a supreme and absolute Soveraignty, Do<g ref="char:EOLhyphen"/>minion, and Kingship is Essential to the Divine being; His own being in the <hi>Father, Son and Spirit</hi> is an Eter<g ref="char:EOLhyphen"/>nal Soveraignty, in and with Himself; And upon a sup<g ref="char:EOLhyphen"/>position of a Creation, He cannot but be <hi>All in All</hi> in it, in one Absolute, Essential, Unchangeable Sense, and King over it; And thus He is the only <hi>Happy, and Blessed Potentate, who only hath Immortality, and Dwels in the Light, to which none can approach; Whom no Man hath seen, nor can see; He is the King, Immortal, Invisible, the only wise God.</hi>
+               <note place="margin">1 <hi>Tim.</hi> 6.15.</note> And in this supreme Sense, All Creatures are <hi>Reputed nothing, and less then nothing, and Vanity;</hi> and All Princes, and Kingdoms, and even Angelick Beings, and Powers are <hi>Nothing, and less then nothing;</hi> All can add nothing to Him, nor can they take any thing from Him by their Being, or by their not Being; So he must be <hi>All in All.</hi>
+            </p>
+            <p n="3">3. When we therefore speak of God not <hi>All in All,</hi> or of the <hi>Kingdom delivered up,</hi> or the <hi>Kingdom</hi> not yet <hi>Delivered up;</hi> All such Expressions are to be un<g ref="char:EOLhyphen"/>derstood in a Sense <hi>Oeconomical,</hi> the <hi>Oeconomy</hi> of Things, as Scripture often speaks in that Language; or the <hi>Dis<g ref="char:EOLhyphen"/>pensation;</hi> that is; the Free <hi>Dispensation,</hi> or ordination of God in a Variety of Representations,<note place="margin">F<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> manifesting
+<pb n="16" facs="tcp:204290:12"/>His <hi>Many-Folded Wisdom,</hi> and opening the unsearchable Riches of it, which else would be Eternally summ'd up in Himself; And otherwise, that Absolute Essenti<g ref="char:EOLhyphen"/>al Sense of <hi>God All in All</hi> can never be Removed, nor any way changed. So that whatever there is of Created Beings, either of Angels, or Men, or of the Creatures below them, and All the Government of God in Rela<g ref="char:EOLhyphen"/>tion to them, yea, even their Eternal State, if we come to the strictest consideration thereof, and to a close compare with the absolute Perfections, and Glorys of the Divine Being in the <hi>Father, the Son, the Spirit,</hi> are but <hi>Oeconomy,</hi>
+               <note place="margin">
+                  <hi>Ephes.</hi> 1.11.</note> or Free Dispensation of God, <hi>Who work<g ref="char:EOLhyphen"/>eth All Things after the Counsel of his own will:</hi> So that in summ, to understand <hi>God All in All,</hi> and the King<g ref="char:EOLhyphen"/>dom of <hi>God All in All</hi> in Highest Sense, is to under<g ref="char:EOLhyphen"/>stand it in a purest Independency on any Creature; <hi>God is All in All, and the only Potentate, the King Im<g ref="char:EOLhyphen"/>mortal, Invisible, of Himself, by Himself, within Him<g ref="char:EOLhyphen"/>self, and to Himself,</hi> and hath not the least Dependence on any Created being to be so; For though we are ready to think, there cannot be <hi>All in All</hi> without some other, <hi>viz.</hi> Created Beings; So there can<g ref="char:EOLhyphen"/>not be a Potentate, or King without Subjects; Yet in the Incomprehensibleness of the Divine Being, and Perfection this is so; Eternal Royalty is His without any Creature to Rule over; The Infinity of <hi>All in All,</hi> can be, and is, within Himself, without any Creature; <hi>The Eternal Father, Son, Spirit, are all this, of, by and to themselves, to whom be Glory for ever.</hi>
+            </p>
+            <p>So then we are come to this, as the proper Subject of Discourse, or State of the Question; What <hi>Oeco<g ref="char:EOLhyphen"/>nomy</hi> or <hi>Dispensation</hi> is freely chosen by God, as that which comes nearest, and closest to <hi>God All in All,</hi> to
+<pb n="17" facs="tcp:204290:12"/>the Absolute Essential State of <hi>God All in All,</hi> and to the Kingdom <hi>Delivered up to God, even the Father,</hi> That He with his Son, and Spirit, who are Himself, may be <hi>All in All:</hi> And so Inclusively to consider what <hi>Oeconomies,</hi> or <hi>Dispensations</hi> of God have been, and are in the World, that take most off from God being <hi>All in All;</hi> and so to set out that Highest <hi>Oeconomy</hi> before the <hi>Kingdom delivered up,</hi> viz. the <hi>Kingdom of our Lord Jesus Christ,</hi> which will fully prepare by what it shall have effected, and by the delivery up of it self, for the <hi>King<g ref="char:EOLhyphen"/>dom of God All in All.</hi> All which I shall present in the following Propositions.</p>
+            <p>
+               <hi>Propos.</hi> 1. Even Creation it self is a Condescension from the supreme Heighth of God (<hi>All in All</hi> to Him<g ref="char:EOLhyphen"/>self) for the Manifestation, and Communication of Himself to, and in Intellectual Creatures, and in the whole Universe of Beings; <hi>Which for his Pleasure are and were Created;</hi> And yet it is an <hi>Humbling of Him<g ref="char:EOLhyphen"/>self to behold,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 4.11</note> and to give Regard to any thing out of Himself, As All Created Beings are, whether in Heaven,<note place="margin">
+                  <hi>Ps.</hi> 113.6.</note> much more on Earth, and below Heaven; and to take Care of Them, and to have Pleasure in Them; And indeed such Creation, such Communication of Himself can<g ref="char:EOLhyphen"/>not be conceived aright of, but in Gods Foresight of the Union of the Created Humane Nature to the Eter<g ref="char:EOLhyphen"/>nal <hi>Word,</hi>
+               <note place="margin">
+                  <hi>Colos.</hi> 1.16.</note>
+               <hi>By whom and for whom All things were made,</hi> and is therein in the Eye and Design of the Fa<g ref="char:EOLhyphen"/>ther, <hi>The First Born of the whole Creation;</hi> For He <hi>Crea<g ref="char:EOLhyphen"/>ted All Things in Jesus Christ.</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 3.9.</note>
+            </p>
+            <p n="2">2. Though God was pleased to Create, yet He might so have Created, that the Eyes of All Intellectu<g ref="char:EOLhyphen"/>al
+<pb n="18" facs="tcp:204290:13"/>Creatures should have been upon Himself Alone, and the sole dependence of the lower Creation been Alone on Himself, not One in another only, but Im<g ref="char:EOLhyphen"/>mediately on Himself, upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Immediate ordinations of his Hand without the Intervening Cultivation of such a Hand, as <hi>Adams</hi> in <hi>Paradise;</hi> This therefore is a Further Concession God was pleased to make, from Being <hi>All in All;</hi> That one Creature should be mana<g ref="char:EOLhyphen"/>ged by another.</p>
+            <p n="3">3. Creation and the Government of the world might have been so Constituted; That the whole, and sole Domination should have been pure, and perfect <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocracy,</hi> Or Divine Magistracy: But the several Kinds and Degrees of Government, that have been a<g ref="char:EOLhyphen"/>mong Men,<note place="margin">
+                  <hi>Colos.</hi> 1.</note> we are generally sensible of; And Scrip<g ref="char:EOLhyphen"/>ture gives strong Intimations of Governments among Angels,<note place="margin">
+                  <hi>Ephes.</hi> 6.</note> both Good, and Bad; when it speaks of <hi>Thrones, Dominions, Principalities, Powers</hi> in <hi>Heaven<g ref="char:EOLhyphen"/>lyes;</hi> and of <hi>Principalities, Powers,</hi> who are <hi>Spiritual Wickednesses in High places,</hi> viz. In the Ayery Regions; And These of both Kinds have in a kind of Subjecti<g ref="char:EOLhyphen"/>on the world that now is: But here on Earth, How many Princes of Great Names, and swelling Titles, and vast Empires, and Kingdoms, besides that Peculiar Im<g ref="char:EOLhyphen"/>mediate Government of God over <hi>Israel,</hi> till He settled a Kingdom among them, and in the <hi>House</hi> of <hi>David,</hi> by a most Particular Covenant! But to shew how Diffi<g ref="char:EOLhyphen"/>cult the consistency of Earthly Kingdoms with the Di<g ref="char:EOLhyphen"/>vine was, He first divided the Kingdom of <hi>Israel,</hi> and then put a full End to it, and settled in Judgment four succes<g ref="char:EOLhyphen"/>sive <hi>Monarchies</hi> in the World, Till the very End of any time, but of a <hi>New Era,</hi> Or Account, which I hope is now
+<pb n="19" facs="tcp:204290:13"/>beginning, But now, It is most evident; All these have, though much through the Degeneracy of Humane Na<g ref="char:EOLhyphen"/>ture, Yet they have to us Eclipsed the Divine Glo<g ref="char:EOLhyphen"/>ry, Soveraignty, and Dom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nion; That, as is further to be shewn; The <hi>putting down All Rule,</hi> and <hi>Authority</hi> is most necessary to prepare for the <hi>Kingdom</hi> of God, <hi>All in All.</hi>
+            </p>
+            <p n="4">4. It is much more yet; That God is pleased▪ to Veil His being <hi>All in All,</hi> and His <hi>Kingdom,</hi> as so: That He for the Manifestation of his own Glory at the last, hath permitted Sin, Sathan, and Death, as under the Power of Sathan, to have a Counter-Kingdom to his own in the World; And, as the <hi>God</hi> and <hi>Prince</hi> of <hi>this World,</hi> He so Influences and Steeres the Princes of this World, that they are Enemies to, and Persecutors of the People, and Kingdom of God, and have been so Generally violent to drive the Knowledge, and Sense of Him, as much, as they can out of the World: <hi>So that the World by Wisdom knows not God,</hi> and Men are <hi>with<g ref="char:EOLhyphen"/>out God</hi> in the World; <hi>God is not in All their Thoughts,</hi> Hereupon through the just Indignation of God, Sin, and Misery, and Death spread Themselves over All; Which is so contrary to the <hi>Kingdom of God, All in All,</hi> That the Apostle assures, <hi>The last Enemy, that shall be subdued is Death</hi> (As is after to be shewn) and both Death, and He that <hi>hath the Power of Death,</hi> that is, The <hi>Devil</hi> and the <hi>Dead</hi> are <hi>Cast into the Lake.</hi>
+            </p>
+            <p n="5">5. The <hi>Kingdom of our Lord Jesus Christ,</hi> although it is to the <hi>Glory of God the Father,</hi> although the <hi>Throne of God</hi> be in it, although He is <hi>Excepted,</hi> who <hi>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts All Things under the Feet of Christ</hi> in that <hi>Kingdom;</hi> He
+<pb n="20" facs="tcp:204290:14"/>is <hi>Excepted;</hi> That is, His <hi>Kingdom</hi> hath the Suprema<g ref="char:EOLhyphen"/>cy of Glory: And though one Great End of it is, to prepare for the <hi>Kingdom of God, All in All,</hi> yet because, It is the <hi>Kingdom</hi> of the <hi>Son of Man,</hi> of the Humane Nature of the Eternal Son of God, <hi>viz.</hi> Of the <hi>Man Christ Jesus;</hi> Therefore it must be <hi>delivered up</hi> and the <hi>Son of Man</hi> must be <hi>Subject,</hi> that <hi>God</hi> may be <hi>All in All:</hi> For this Manifestation of the Divine Glory of the Father, although, It is so Glorious a one, yet is a Descent from the Glory of <hi>God All in All;</hi> Because, It is the Glorious Kingdom of the <hi>Son of God,</hi> as <hi>Son of Man,</hi> and not so peculiarly, and properly, as Son of God.</p>
+            <p>And this, though it be a <hi>Kingdom</hi> in all the Essenti<g ref="char:EOLhyphen"/>als of it, the very same with the <hi>Kingdom of God,</hi> be<g ref="char:EOLhyphen"/>cause the <hi>Throne of God,</hi> even as of the <hi>Lamb</hi> is in it; Because, It is to the <hi>Glory of God the Father;</hi> Because It is all Holiness, and Purity, nothing can Enter in it, that <hi>Desiles;</hi> and because, It is an Everlasting Kingdom that cannot <hi>Come to an End,</hi> but can only be <hi>delivered up;</hi> Yet because, It is not the <hi>Kingdom of God, even of the Father;</hi> Because, It is on purpose for the Glory of the Lord Jesus, as <hi>Son of Man,</hi> and <hi>the Son</hi> is not yet <hi>Subject;</hi> and because, It must in doing All, It is to do, be resign'd up, <hi>Therefore the Kingdom of God All in All cannot be, till This Kingdom be delivered up.</hi>
+            </p>
+            <p>Having thus far shewn, In what Senses, the <hi>King<g ref="char:EOLhyphen"/>dom, even of the Father,</hi> is not yet <hi>All in All,</hi> I come now to shew; That in the opposite Senses, when the <hi>Son delivers up the Kingdom,</hi> and is <hi>Subject; God shall be All in All;</hi> And herein I would not speak with too great confidence, but with a Humble, and Lowly Ap<g ref="char:EOLhyphen"/>prehension of my own Weakness, ready to <hi>Darken
+<pb n="21" facs="tcp:204290:14"/>Counsel by words without Knowledge;</hi> But yet with a Holy preparedness to bring out of the <hi>Treasury of the Word of God, things New and Old.</hi> For nothing tends more to Corruption, and <hi>Apostasy,</hi> then a stagnation of Knowledg, and not <hi>Going on to Perfection</hi> in the <hi>Do<g ref="char:EOLhyphen"/>ctrine of Christ,</hi> as the Apostle Witnesses, <hi>Heb. C.</hi> 5. and <hi>C.</hi> 6.</p>
+            <p n="1">1. The whole Glory of Creation in All, that hath been Created, or might have been, or might be Crea<g ref="char:EOLhyphen"/>ted, shall be All seen in the Eternally Wise, and All-Potent Being of God, in the Majesty of the <hi>Father:</hi> And therefore I look upon it, as most Agreeable to Scripture, That the Frame of Heaven and Earth, ex<g ref="char:EOLhyphen"/>cept onely, That Heaven, That shall be the Habitati<g ref="char:EOLhyphen"/>on of the Glorifyed Body of our Lord Jesus Christ, and of All His Saints in Glorifyed Bodys with Him, and the Mansion of Angels, and which the Divine Glory will by it self Illustrate; shall <hi>Fly away,</hi> and their <hi>Place be no more Found.</hi> According to <hi>Rev.</hi> 20. Which by a close compare of the <hi>Visions</hi> of the 20 and 21 Chap. Appears to be the <hi>Flying away</hi> of the <hi>New Heavens,</hi> and <hi>New Earth;</hi> For it was after the <hi>Thousand Years.</hi>
+            </p>
+            <p>And indeed, seeing Intellectual Eyes shall see, and behold them All in God; and that there can be no looking off from God to Them, and they themselves cannot look one upon another, Therefore there can be no Account of their Continuation in their Created State, but even those New ones shall so <hi>Fly away.</hi>
+            </p>
+            <p n="2">2. The Glorys and Beautys of Divine Providence, shall be seen in Him, who is the Eternal Spring, and
+<pb n="22" facs="tcp:204290:15"/>Fountain, as wholly in, and from Himself without any Created Intermixtures, in the Perfection <hi>of All, of Him, through Him, to Him for Ever;</hi> (which had been in the State of Creation) with All the possible Varie<g ref="char:EOLhyphen"/>gations of Events, and the Interweaves of All possibi<g ref="char:EOLhyphen"/>lities of them this way, or that way; Far above and <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re clear, then they can be beheld in Creation, and Providence, as so obscur'd by Created Intermix<g ref="char:EOLhyphen"/>tures.</p>
+            <p>From hence it appears, There shall be no New Acts of Creation, or Administrations of Providence, For besides; All that hath been, or can be, shall be seen in God; If they should be, they must, and ought to be beheld and consider'd, and God seen in them, For it is a Great Evil not to <hi>Behold the Works of the Lord, and the Operations of His Hands; not to search and to take Pleasure in them;</hi> But this is not suited to the State of <hi>God All in All,</hi> in which the Eyes of Angels, and Saints are for ever Inseparably united to the Divine Glory, and Perfection. And even the Glory of An<g ref="char:EOLhyphen"/>gels, and Saints shall not be so much beheld by Them<g ref="char:EOLhyphen"/>selves in one Another, as by beholding in that Insinite Mirror, All the Glorys Reflected from it on those An<g ref="char:EOLhyphen"/>gels, and Saints, and enjoyed effectively in Them<g ref="char:EOLhyphen"/>selves with unspeakable Fulness of Joy for Ever: This is most agreeing with God All in All.</p>
+            <p n="3">3. The whole State of <hi>Authority, Rule</hi> and <hi>Dominion,</hi> whether of Angels or Men, shall be taken away, first by the <hi>Kingdom</hi> of the <hi>Lord Jesus Christ;</hi> and so <hi>deli<g ref="char:EOLhyphen"/>vered</hi> up with it to <hi>God the Father,</hi> and He with the E<g ref="char:EOLhyphen"/>ternal Son, and Spirit, be the only <hi>King Eternal, Im<g ref="char:EOLhyphen"/>mortal, the only Wise God:</hi> All the Ends of Order, and
+<pb n="23" facs="tcp:204290:15"/>Government being Paramount in Himself, and by Himself taken care for; and the Crown, and Glory, the Honour, the Riches, and Strength, the Wisdom, Power, and Authority, for ever Encircling, and Sit<g ref="char:EOLhyphen"/>ting fast upon Himself to Eternity, 1 <hi>Tim.</hi> 1.17. Chap. 6.15.</p>
+            <p n="4">4. The Condemnation, Ruine, and Misery of Lost Angels, and Men, with All the Impurity of Sin, and Death; and their Dark, and Horrid Appearances and Wrath without mixture, shall be Removed at the ut<g ref="char:EOLhyphen"/>most distance from God, and his Kingdom into the <hi>Lake, that Burneth with Fire, and Brimstone,</hi> where the Devil, and his Angels, and Wicked Men are; and can offer no Resistance, nor Disturbance, nor so much, as Annoyance, or offence to the Divine Glory, nor to the Blessedness of those with Him; and are only be<g ref="char:EOLhyphen"/>held in the Purity, Holyness, and in the Triumphs of the Justice of God to All Eternity, <hi>Rev.</hi> 20. <hi>ult.</hi> So that Salvation and Blessing Rise up to Him for Ever.</p>
+            <p n="5">5. The Redemption of the Lord Jesus Christ, and the Kingdom of Redemption shall be Eternally drawn up into the Divine Person of the <hi>Word,</hi> and <hi>Son of the Father</hi> united to, or in Union with the Humane Nature, or the <hi>Man Christ Jesus;</hi> Through which the Divine Na<g ref="char:EOLhyphen"/>ture, Else <hi>Invisible,</hi> Communicates it self to Angels, accor<g ref="char:EOLhyphen"/>ding to their being made by, and for the <hi>Mediator,</hi> and <hi>Consisting in Him, Col.</hi> 1. And to Saints; and through which, the Union with the Father is Held Inviolable to Eternity; as our Lord Expresses, <hi>John</hi> 17. <hi>v.</hi> 21.23. <hi>That they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll may be one, As Thou Father, art in
+<pb n="24" facs="tcp:204290:16"/>Me, and I in Thee; That they also may be made one in us, that the World may believe, that thou hast sent me; And the Glory, that Thou hast given Me, I have given Them, that they may be one, as we Are; I in Them, and Thou in Me, that they may be made perfect in one, that the World may know, that thou hast sent me and hast Loved Them, as thou hast Loved Me, and I have de<g ref="char:EOLhyphen"/>clared to them thy Name, and will declare it, that the Love, wherewith Thou hast Loved Me, may be in Them, and I in Them;</hi> Now, All this shall be first (as is af<g ref="char:EOLhyphen"/>ter to be shewn) made Gloriously Apparent in the Humane Nature of Christ in the <hi>Kingdom of Redemp<g ref="char:EOLhyphen"/>tion,</hi> and then drawn up into the Divine Nature of the Son of God, and for ever perfected in the <hi>Kingdom of the Father,</hi> that thus in the Eternal Son the <hi>Father may be All in All;</hi> And that <hi>Glory seen,</hi> and that <hi>Love,</hi> wherewith the Eternal Son was <hi>Loved by the Father, before the Foundation of the World,</hi> v. 22.</p>
+            <p>I have now Dispatch'd the First Point, I Aim at in this Discourse, <hi>Viz.</hi> That the ultimate Result of the whole State of Creation, and of Redemption is into the <hi>Kingdom of God All in All.</hi> I come now to the Se<g ref="char:EOLhyphen"/>cond, <hi>Viz.</hi>
+            </p>
+            <p>
+               <hi>Point</hi> 2. The Absolute Eternal Glory of the Humane Nature of Christ, and of his Saints, yea, and of An<g ref="char:EOLhyphen"/>gels, is in the <hi>Kingdom of God All in All.</hi>
+            </p>
+            <p>Herein there are these two things I would make out.</p>
+            <p n="1">1. That even the Supreme Glory of Christ in his Humane Nature, and therefore undenyably of Saints,
+<pb n="25" facs="tcp:204290:16"/>and Angels must be in the <hi>Kingdom</hi> of <hi>God, All in All.</hi>
+            </p>
+            <p n="2">2. That All, that ever Hath been, shall Be, or can Be, is found in <hi>God All in All;</hi> So that nothing can be wanted besides Him.</p>
+            <p n="1">1. It is most evident, All the Happyness of Angels, Saints, and of Christ Himself, even in All Things of those <hi>Oeconomys,</hi> that have Been, and wherein God hath not been in that Highest, and Supreme Sense <hi>All in All,</hi> hath been in the nearest Approach to <hi>God All in All;</hi> To have made it <hi>Their Meat, and Drink to do his Will; To do always the Things pleasing in his Sight;</hi> Not to be <hi>Alone,</hi> but to have the <hi>Father</hi> still <hi>with Them,</hi> as our Lord Jesus speaks of Himself; and in every Dispensation of Creation, Providence, and of Redemp<g ref="char:EOLhyphen"/>tion It self, to sind Him, <hi>Above, Over, In,</hi> and <hi>Through All,</hi> is the Highest and Purest Enjoyment; and therefore it must needs be so, when He is, and shall be <hi>All in All</hi> to Eternity! And indeed, The End of All Dispensa<g ref="char:EOLhyphen"/>tion hath been to Manifest the Divine Being to us, and to Lead us to Him by nearest steps; and the nearest of All, <hi>Redemption,</hi> and the <hi>Kingdom of Redemption</hi> is; and on that very Account, Because God <hi>All in All</hi> is most beheld and enjoy'd in it.</p>
+            <p>It is the Glory of the Lord Jesus Christ in His Hu<g ref="char:EOLhyphen"/>mane Nature, to be in the nearest, and closest Enjoy<g ref="char:EOLhyphen"/>ment of God <hi>All in All,</hi> that is; When it is most swal<g ref="char:EOLhyphen"/>lowed up in the Divine Union, and Communion; on Account of which our Lord Prays with Relation to His Humane Nature, to be <hi>Gloryfied</hi> with the <hi>Father</hi>
+               <pb n="26" facs="tcp:204290:17"/>Himself, with Him <hi>All in All,</hi> with the <hi>Glory, He had with H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m before the Foundation of the World,</hi> That is with the nearest Approach to it, and then with the Fullness of it; For as the Lowest of the Humiliation of Christ in the Humane Nature was, when <hi>The Eter<g ref="char:EOLhyphen"/>nal Word</hi> Left It most to it self; <hi>When the Man Christ Jesus Cryed out, My God, My God, why hast Thou forsak<g ref="char:EOLhyphen"/>en Me;</hi> So the Highest Exaltation of it is, when the Divine Person doth most draw up the Humane Nature into it self; It shall therefore be more Glorious, when the Father with whom the Eternal <hi>VVord</hi> is one, is <hi>All in All,</hi> then when the <hi>Son of Man</hi> comes and is in his Kingdom; For though that be of, and to the <hi>Glory</hi> of the <hi>Father,</hi> yet because the <hi>Father</hi> is not <hi>All in All,</hi> Christ is not so Glorious then, as in that <hi>Kingdom de<g ref="char:EOLhyphen"/>livered up, and God All in All.</hi>
+            </p>
+            <p>If then Christ be not in his Highest Glory, Saints cannot be in Theirs, but in that <hi>Kingdom of the Fa<g ref="char:EOLhyphen"/>ther;</hi> For their Glory is but the Reflexion of, and de<g ref="char:EOLhyphen"/>pends upon the Glory of Christ; as hath been said; <hi>The Glory Thou gavest Me, I have given Them,</hi> &amp;c.</p>
+            <p n="2">2. All that ever hath been, shall be, or can be, is found in God; So that whatever hath been in All the whole <hi>Occonomy</hi> in Time, and the several and various Dispensations, shall be seen in this Infinite Mirror, with all the Glorious Attributes, and Perfections of Holyness, Wisdom, Justice, Power, clearly shining out in Them, which are Essential to the Divine Being; Even Creation, Providence, Redemption, the King<g ref="char:EOLhyphen"/>dom of Redemption it self, shall be for ever seen, and understood in the for ever Blessed Spring, and Fountain of All.</p>
+            <pb n="27" facs="tcp:204290:17"/>
+            <p> Now from these Grounds, I would shew, how In<g ref="char:EOLhyphen"/>finitely above All <hi>Heigth</hi> and <hi>Depth, Breadth</hi> and <hi>Length,</hi> The Divine Being Alone is sufficient to be <hi>All in All</hi> to Eternity, to All the Blessed Saints and Angels, and Christ the Head of All.</p>
+            <p n="1">1. All the Perfections, that the Mind, and Under<g ref="char:EOLhyphen"/>standing either of Angels, or of Men can, or ever shall be able possibly to have, but Any Apprehension, or the least <hi>Idea</hi> of, are All in the Divine Being; even All the Excellency of Jesus Christ the Mediator, and much more in the Humane Nature of our Lord Jesus, shall be found in the Admirable Excellency, the Supreme and Adorable Excellency of the Divine Being it self; This is that Great Truth, which our Lord Intended, (I am fully assured; and not to signify, That He Him<g ref="char:EOLhyphen"/>self was not One with the Father) <hi>John</hi> 17.3. <hi>This is Life Eternal to know Thee, the only true God and Jesus Christ whom Thou hast sent.</hi> It is a secondary Thing to know Christ, whom <hi>He hath sent;</hi> Though in our State it is, as Christ saith, in another Case, <hi>Like to the First;</hi> we must have a Fundamental Knowledge of the <hi>One God,</hi> before we can know the <hi>One Mediator; For a Mediator is not a Mediator of One; but God is One,</hi> He is that Supreme <hi>One,</hi> with whom the Mediator is <hi>One;</hi> but as we are in a State of distance from God, God in the Mediator brings us to Himself; Therefore the Mediator Alone can bring us to that Supreme <hi>One;</hi> and our First true saving Knowledge of Him is By, Through, and in the Mediator; Till we come into this Kingdom of God <hi>All in All,</hi> of which I am now speaking, and even then our Union to God, and Com<g ref="char:EOLhyphen"/>munion with God, with God <hi>All in All</hi> is Through Him.</p>
+            <pb n="28" facs="tcp:204290:18"/>
+            <p> This then is that Transcendent Excellency of the Divine Being, That All Perfections are His; You know, All Scripture is Full of the Expressions of the Perfections of God, <hi>the Holy, the only Holy; The Wise, the only W se; the Potentate, the only Blessed Potentate;</hi> The True, the Good, the Gracious; <hi>Great is the Lord, and Greatly to be Praised, and His Greatness is unsearch<g ref="char:EOLhyphen"/>able: One Generation shall declare it to Another.</hi> It is a Subject worthy of All Ages, and of the Highest All Ages can attain to; And none can reach so to it, no not in the very Kingdom of the <hi>Son of Man,</hi> though it be the Highest Preparation to it, can so reach to it, But that it must be <hi>Delivered</hi> up into this <hi>Kingdom of God All in All.</hi>
+            </p>
+            <p>Now there is nothing gives so refreshing a <hi>Rain,</hi> or <hi>Dew</hi> in this present Time, as the Discourse of God; <hi>When</hi> Moses <hi>was Publishing this Name of Jehovah,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 32.1, <hi>&amp;c.</hi>
+               </note> He thus breaks out; <hi>Hear Oh ye Heavens, and I will speak, Give Ear to the Words of my Mouth, My Doctrine shall drop, as the Rain, Distill as the Dew, as the small Rain on the Tender Herb,</hi> and as the <hi>Showers upon the Grass; Be<g ref="char:EOLhyphen"/>cause I will Publish the Name of the Lord: Ascribe ye Greatness to our God; As for God, his Work is perfect; for All His Ways are Judgment. A God without Iniqui<g ref="char:EOLhyphen"/>ty, Just</hi> and <hi>Right</hi> is <hi>He:</hi> Indeed we cannot, you know, Look into Scripture, but we find the Glory of the Di<g ref="char:EOLhyphen"/>vine Being every where Filling it; It is the very Spi<g ref="char:EOLhyphen"/>rit and Power of Scripture: and there is nothing gives that <hi>Refreshing Rain,</hi> as the Discourses of our God: If it be then so sweet, when we see but a Little of God, but a <hi>part of his ways,</hi> and but the <hi>Back-parts</hi> of Him; Oh, how will the Fullest Manifestation of Him, our Finite Beings are capable on, overflow us with Hap<g ref="char:EOLhyphen"/>piness and Blessedness!</p>
+            <pb n="29" facs="tcp:204290:18"/>
+            <p> What can be necessary to our Happiness, or most Super abundant to it, but <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mself <hi>In All?</hi> Seeing <hi>He</hi> is <hi>All,</hi> in<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ever Enjoy, All in Nature All in Grace, All in Cr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion and Providen e, All in Redemption are but Effulgencies from Himself; Himself is All in the Fountain, the Spring, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un it self; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erfection of Infinite Delight and Satisfa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion are in Him; whatever hath therefore been Enj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y'd in Any, in All, in the most Excellent of Creatures, yea, in the Created Hu<g ref="char:EOLhyphen"/>mane Nature of Christ, shall be more Highly, more Perfectly, and Fully Enjoy'd in God <hi>All in All;</hi> All <hi>Oe<g ref="char:EOLhyphen"/>conomies</hi> shall be drawn up into the Kingdom Essentially Divine, That from Eternity to Eternity is the same; And nothing of <hi>Oeconomy</hi> shall Remain, but what is Indis<g ref="char:EOLhyphen"/>pensably necessary in Created Beings enjoying the In<g ref="char:EOLhyphen"/>finite Increated Being, which cannot be without some<g ref="char:EOLhyphen"/>what of Dispensation.</p>
+            <p n="2">2. I come to a Second Thing, shewing, How much the Happiness of all Created Beings is in the <hi>Kingdom of God All in All,</hi> Enjoyed, and Full of the most Gracious Communications from God to Them in it; And It is this; That God is Eternally the Same in All His Perfe<g ref="char:EOLhyphen"/>ctions; Indeed He is so the Same from Eternity to Eter<g ref="char:EOLhyphen"/>nity; that He says, <hi>I Am, what I Am; I will Be, what I will Be;</hi> and Absolutely, <hi>I am.</hi> God can never will to be Any Thing, but what He is; nor can Any Supposeable Being make Any Impression upon Him to change Him, from what He is. But what is now especially to be Consider'd, is, That though it is most Adorably True, That God is thus, <hi>I am,</hi> from Eternity to Eternity in Himself, yet the <hi>Kingdom of God, All in All</hi> is, That Oe<g ref="char:EOLhyphen"/>conomy, (if in Regard of the Absolute Perfection of it,
+<pb n="30" facs="tcp:204290:19"/>and the Unchangeableness of it, It may be call'd an <hi>Oe<g ref="char:EOLhyphen"/>conomy</hi>) wherein God is pleased to Communicate Him<g ref="char:EOLhyphen"/>self in Regard of the Manifestations of Himself to Crea<g ref="char:EOLhyphen"/>ted Beings, according to that his Name, <hi>I Am;</hi> or the Unchangeable, Eternal One, <hi>That Lofty One, who in<g ref="char:EOLhyphen"/>habits Eternity,</hi> without <hi>Any Variation,</hi> or <hi>Shadow of Turning;</hi> All the Variations of <hi>Oeconomy,</hi> or Dispensati<g ref="char:EOLhyphen"/>on, being perfectly past; Thus then, whatever is the Glory, Happiness, Blessedness of Absolute Eternity, E<g ref="char:EOLhyphen"/>ver One, and the Same, That is It, which Saints en<g ref="char:EOLhyphen"/>joy in the <hi>Kingdom of God, All in All,</hi> Perfection of Glo<g ref="char:EOLhyphen"/>ry, and Blessedness, in the Enjoyment of Infinite Per<g ref="char:EOLhyphen"/>fections, and Glories, and Eternally One, and the Same. He is neither Greater, nor Better, nor Wiser, nor more Gracious, nor Good, nor Less; Not only in Himself; for so He is not Greater or Less from Eternity to Eterni<g ref="char:EOLhyphen"/>ty; But He is not More or Less, Greater or Lesser, in the Manifestation of Himself for ever. This seems to be Represented to us, <hi>Rev.</hi> 5. Last, when There had been Peculiar Acknowledgments of the Divine Being, <hi>upon the Throne;</hi> and when Chere had been Peculiar Ac<g ref="char:EOLhyphen"/>knowledgments of the <hi>Lord Jesus Christ, The Lamb,</hi> It is said; <hi>The Four and Twenty Elders fell down, and Wor<g ref="char:EOLhyphen"/>shipped Him, who Liveth for Ever, and Ever;</hi> After There had been the Distinct Acknowledgment of the Father, who <hi>Put All Things under the Feet of Christ</hi> in his <hi>Kingdom,</hi> as <hi>Son of Man,</hi> and therefore the Father was excepted from <hi>All Things put under Him;</hi> and after There had been the Peculiar Acknowledgment of the <hi>Lamb,</hi> Then there was the Acknowledgment of the <hi>Kingdom of God, All in All,</hi> signified in the Final <hi>Falling Down</hi> of the <hi>Twenty Four Elders,</hi> in <hi>Worshipping Him, who Liveth for Ever, and Ever.</hi>
+            </p>
+            <p n="3">
+               <pb n="31" facs="tcp:204290:19"/> 3. The Third Thing I desire should be Consider'd, That we may more fully understand the Blessedness of Saints in the <hi>Enjoyment</hi> of God in his <hi>Kingdom, All in All,</hi> is; That though the Divine Being is the only Enjoy<g ref="char:EOLhyphen"/>ment, and no <hi>Oeconomical</hi> Dispensatory Manifestation of Himself, that may look like a Variety, or Newness, yet there can be no Satiety, or Wearisomness in the Enjoy<g ref="char:EOLhyphen"/>ment of the One Being; Because God is an Infinite Being, There is an Infinity of Glory, and Perfection, and we Finite Beings cannot Take in All at once, nor can we be Eternal, as He is, Comprehending All Dura<g ref="char:EOLhyphen"/>tion in One Single▪ Point, as He does in the Supreme Sense of Eternity. There are therefore as to us, Eter<g ref="char:EOLhyphen"/>nally New, and Fresh Glories, Breaking out from the Divine Being, into the whole State of Spirits, Angels, and Saints, waiting upon Him; There must there<g ref="char:EOLhyphen"/>fore of necessity be an Eternity of Newness, and Fresh<g ref="char:EOLhyphen"/>ness of Enjoyment to us: But beyond this, Infinity hath in it Self an Indefailableness, Freshness, Beauty, Enjoyment in its own Essential Nature; The Infinite Father, the Infinite Son, the Infinite Spirit, are to Themselves, In and With Themselves, Infinitely New, and Fresh Happiness, and Blessedness, How much more is This Apprehensible in relation to Finite Spirits! To whom the Fountain of Life is a Fulness, and a Fountain of Life, of Joy, of Pleasures; And because to Finites, It is a River of Life, of Joy, and Pleasures, Im<g ref="char:EOLhyphen"/>porting a Succession; The same, and yet always New; And therefore Pleasures, which Imply a New<g ref="char:EOLhyphen"/>ness, and a Freshness; And in this <hi>Kingdom of God All in All,</hi> These Glories of the Divine Being are thus <hi>All in All,</hi> and yet Eternally New; because we in a Mystery
+<pb n="32" facs="tcp:204290:20"/>of Blessedness have <hi>All</hi> so far, as Finite Beings can take in <hi>All,</hi> and yet Eternally New, Because we cannot take in All; There can be no <hi>growing Old</hi> (as I may say with Reverence) upon our Hands; For what <hi>Groweth Old, Decayeth, and Vanisheth away.</hi> But <hi>Psal.</hi> 16.11. <hi>Thou wilt shew me the Path of Life, in thy Presence is Fullness of Joy, at thy Right Hand There are Pleasures for Evermore.</hi>
+            </p>
+            <p>I come now to the Third Point of this Discourse; To shew, That the <hi>Kingdom of Christ</hi> is That Holy, Wise, Gracious <hi>Oeconomy,</hi> or <hi>Dispensation in the Fulness of Time,</hi> or of All Times, which is of All most Preparatory for the <hi>Kingdom of God, All in All,</hi> and on which <hi>Deliver'd up,</hi> the Kingdom of the <hi>Father, God All in All</hi> suc<g ref="char:EOLhyphen"/>ceeds; and without which, so preparing, and <hi>Deliver'd up,</hi> This <hi>Kingdom of God All in All</hi> cannot succeed, ac<g ref="char:EOLhyphen"/>cording to that Scheme and Frame of God hath set; as shall, by the Assistance of God, be made out from this Context, and summarily Represented in these <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ol<g ref="char:EOLhyphen"/>lowing Heads.</p>
+            <p n="1">1. The Wise, and Holy Ordination of God in a Recom<g ref="char:EOLhyphen"/>pence of Justice, and Righteousness to Jesus Christ in his Humane Nature requires, if humbled; <hi>Who humbled Himself, and Became Obedient unto Death, even to the Death of the Cross;</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 2.8, 9, 10.</note>
+               <hi>wherefore God hath Highly Exalted Him, and Given Him a Name above every Name; That in the Name of Jesus every Knee should Bow, Both of Things in Heaven, and Things in Earth, and Things under the Earth; and every Tongue should confess, That Jesus Christ is Lord, to the Glory of God the Father;</hi> He had that Promise from the Father on the Day of his Resurrection; <hi>Ask of me, and I will give Thee the Heathen for thy Inheritance,</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 2.8.</note>
+               <hi>and the
+<pb n="33" facs="tcp:204290:20"/>uttermost Ends of the Earth for thy Possession,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 13.33.</note> but with this Provision; <hi>That Christ should sit at the Right Hand of God, Till His Enemies are made His Footstool.</hi> Now we see <hi>Him thus Crown'd with Glory,</hi> and <hi>Honour; But we see not All Things yet put under Him;</hi>
+               <note place="margin">
+                  <hi>Psa.</hi> 110.1.</note>
+               <hi>While He Sits, His Enemies are not put under Him;</hi> When He <hi>Sits</hi> no longer, but comes, then They shall be <hi>put under Him;</hi> Till then, He <hi>Expects,</hi> and His <hi>Expectation</hi> began at His <hi>Sitting Down,</hi> and from Thenceforth,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> or for the <hi>Resi<g ref="char:EOLhyphen"/>due</hi> from His <hi>Sitting Down,</hi> He <hi>Expects</hi> until his <hi>Kingdom.</hi> Before therefore this Kingdom be Given to the Great <hi>Son of Man,</hi> The <hi>Kingdom of God All in All</hi> cannot be; Because that <hi>Kingdom</hi> must be <hi>Deliver'd up,</hi> and the <hi>Son subject,</hi> which cannot consist with his <hi>Kingdom;</hi> For the <hi>Son Reigning,</hi> and not <hi>Subject</hi> are here oppos'd to the <hi>Kingdom deliver'd up,</hi> and the <hi>Son Subject,</hi> and <hi>God All in All;</hi> so that the One cannot be, while the Other is; And therefore, seeing the <hi>Son</hi> must Have a <hi>Kingdom,</hi> and He cannot Have it, when the <hi>Kingdom of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od is All in All,</hi> He must necessarily Have it before. It is there<g ref="char:EOLhyphen"/>fore said, <hi>Then cometh the End;</hi> That is, The End of All Time in the Fullest, and most Absolute Sense, when It shall Give Place to the Purest, and most Absolute Eternity; But the <hi>Kingdom of Christ</hi> being the <hi>Kingdom</hi> of the <hi>Thousand Years,</hi> the Fullness and Perfection of Time as Appears by Scriptures Usage of Them. <hi>Ps.</hi> 90.4. 2 <hi>Pet.</hi> 3.8. and <hi>Rev.</hi> 20. The End Cannot be, till That Kingdom Have been, and so is most Immediately Prepara<g ref="char:EOLhyphen"/>tory in that very Regard to the <hi>Kingdom of God All in All;</hi> Because It is the very Last of Time, and of the <hi>Oecono<g ref="char:EOLhyphen"/>mies</hi> of it; so that when It is <hi>Delivered up,</hi> All Time for Ever ends.</p>
+            <p n="2">
+               <pb n="34" facs="tcp:204290:21"/> 2. The Greatness of the <hi>Oeconomy</hi> of that <hi>Kingdom,</hi> as Drawing up into it Self, and Giving in Perfection All the <hi>Oeconomies,</hi> that Have Ever been before it, shew; It must be the Glorious one; The <hi>Oeconomy</hi> of the Blessed <hi>Angels,</hi> The <hi>Fallen,</hi> that <hi>Left</hi> Their <hi>First Estate;</hi> The <hi>Oeconomy</hi> of the Pure, and Perfect Creation in <hi>Adam</hi>'s Unsinning, and Unfal<g ref="char:EOLhyphen"/>len Estate, The <hi>Oeconomy</hi> of the Fallen Creation, and the Government of it in the Various Kingdoms, Monar<g ref="char:EOLhyphen"/>chies, and Empires, that have Been in the World; the Grand <hi>Oeconomy</hi> of Redemption, and of the Various Ad<g ref="char:EOLhyphen"/>ministrations of it in the <hi>Old,</hi> and <hi>New-Testament;</hi> and since the Resurrection of Christ, under the <hi>Pagan</hi> Persecuti<g ref="char:EOLhyphen"/>on, and its Endeavours to have Devour'd the <hi>Manly Birth,</hi> Christ and his <hi>Kingdom,</hi> The Undermine of <hi>Antichristi<g ref="char:EOLhyphen"/>anism,</hi> or Counterfeit of Christ's <hi>Kingdom</hi> by it, and the Persecution of the True Servants of Christ, and the Judgment upon it: The <hi>Innumerable Company of An<g ref="char:EOLhyphen"/>gels</hi> Worshipping Christ, and in Glory with Him; The Glory of Christ, and of His Saints in His <hi>Kingdom,</hi> in the <hi>Humane Nature;</hi> and then the <hi>New Creation,</hi> the <hi>New Heavens,</hi> the <hi>New Earth;</hi> The <hi>New Jerusalem;</hi> The <hi>Con<g ref="char:EOLhyphen"/>temptible</hi> and <hi>Cursed Estate</hi> of the <hi>Devil,</hi> and his <hi>Angels;</hi> of the Enemies, Tyrants, and Persecutors of Christ, and <hi>His Kingdom,</hi> and All the Wicked in General. All These shall be set in a Full, and a Clear Light; That God having been understood in His Supreme Holiness, Wis<g ref="char:EOLhyphen"/>dom, and Goodness, in and by Them, and in the Per<g ref="char:EOLhyphen"/>fect Comprehension of Them, Saints may have nothing to do, but to Behold, and Contemplate the Divine Be<g ref="char:EOLhyphen"/>ing it Self, and see All, they do see, in it Alone. But It is most Agreeable to the Divine Prudence, that All These should have been First Known, and Seen, by Saints, in a
+<pb n="35" facs="tcp:204290:21"/>Humane Manner, in the Glorious <hi>Kingdom of the Son of Man.</hi>
+            </p>
+            <p n="3">3. The <hi>Putting down All Authority,</hi> and <hi>Power</hi> makes most necessary the <hi>Kingdom of Christ,</hi> in the Nature of the Thing; That It should be done, is Absolutely necessary to the <hi>Kingdom of God All in All;</hi> If then the <hi>Kingdom of Christ</hi> be to do it, It must be before it; Now that Christ is by his <hi>Kingdom</hi> to do It, Appears, in that It is said, <hi>Christ delivers up the King<g ref="char:EOLhyphen"/>dom to God, even the Father,</hi> when he shall have <hi>put down All Rule, Authority, Power;</hi> That Variety of Words is used to shew the utter Remove, and even Extirpation of All Power whatever, but the Divine; Now this is most Agreeable to the Divine Wisdom, and Glory, that It should be done by the <hi>Kingdom of the Son of God</hi> in Humane Nature, the Son of Man;<note place="margin">
+                  <hi>Rev.</hi> 19.12. <hi>v.</hi> 16.</note> that It might be First to the Glory, and Absoluteness of Christs own <hi>King<g ref="char:EOLhyphen"/>dom,</hi> which can endure no other, because he hath <hi>Many Crowns,</hi> he is <hi>King of Kings,</hi> and <hi>Lord of Lords,</hi> to the height of Supremacy; There can be no Other, so much as in Appearance: And when now the <hi>Kingdom of Christ</hi> is so Absolutely Supreme, It is the highest Glory that can be Given to the <hi>Father,</hi> that the Son should thus <hi>Deliver up the Kingdom to Him, All in All;</hi> And It is the highest Act of Obedience, even parallel to that of his Humiliation, and Death, and worthy to be the Crown<g ref="char:EOLhyphen"/>ing Act of All Obedience.</p>
+            <p n="5">5. The <hi>Kingdom of Christ</hi> must Prepare for the <hi>King<g ref="char:EOLhyphen"/>dom of God All in All,</hi> because Death, as hath been shewn, as most contray to the <hi>Kingdom of God, All in All,</hi> must be Remov'd; and No One, but the Redeemer, can do
+<pb n="36" facs="tcp:204290:22"/>this, according to the Holiness, and Justice of God sat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sfied by him and according to the Glory due to him, and his Redemption; Nor should It be done any Other way, but by his <hi>Kingdom,</hi> and Glorious Potenta<g ref="char:EOLhyphen"/>cy, as a <hi>Kingdom of Redemption;</hi> And therefore the Bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds of his <hi>Kingdom,</hi> both as in its Beginning, and Period, are Illustrated by the Conquest over, and <hi>Sub<g ref="char:EOLhyphen"/>duing Death;</hi> In the Beginning of It, is the <hi>Resurrection of the Saints,</hi>
+               <note place="margin">
+                  <hi>Zech.</hi> 14.5.</note> whom he <hi>Brings with him,</hi> as the <hi>Armies</hi> of <hi>Heaven;</hi> The <hi>Lord our God comes,</hi> and <hi>all his Saints with him:</hi> and <hi>They come on white Horses,</hi> in <hi>Linnen white,</hi> and <hi>clean,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 19.14. 1 <hi>Cor.</hi> 15.51. 1 <hi>Thess.</hi> 4.<hi>Rev.</hi> 20.6. <hi>Rev.</hi> 22.2.</note> the Emblem of <hi>Bodies of Glory,</hi> in a most Re<g ref="char:EOLhyphen"/>splendent Triumph over Death; and <hi>the Living Saints are Changed, Partakers of the First Resurrection,</hi> who as Guarded with Life, cannot dye: For <hi>the Leaves of the Tree of Life are for their healing,</hi> so that they cannot die; Now how Great is This Conquest over Death in Both the Instances of it, in the Saints of the <hi>First Resurrection,</hi> taken as a Prey out of the Jaws of Death, and the Grave, as the <hi>Belly of Hell!</hi> In the <hi>Living Saints changed,</hi> on whom Death thought, as we may say, to have its u<g ref="char:EOLhyphen"/>sual Ravage; Standing, as it were, in its Eye, under a seeming Possibility of dying for a <hi>Thousand Years,</hi> and yet It can never touch Them; <hi>Adam</hi>'s first State was a <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>osse non Mori,</hi>
+               <note place="margin">Or He must die</note> or a Possibility not to die, but a Possibili<g ref="char:EOLhyphen"/>ty also to die; on which Death so prevail'd, that he fell under a <hi>Non Posse non Mori,</hi> as the general Law; But These in a Possibility to die, as not Actually in the Full State of the <hi>First Resurrection,</hi> yet as <hi>Partakers of it,</hi> can<g ref="char:EOLhyphen"/>not Eventually die, nor shall the <hi>Second Death have Power over Them,</hi> nor any Death touch Them; but They are at the Last <hi>Caught up</hi> to the <hi>Highest Life,</hi> and therein <hi>Deliver'd up</hi> with the <hi>Kingdom</hi> to the <hi>Father,</hi> to
+<pb n="37" facs="tcp:204290:22"/>be with him, and the <hi>Lord Jesus for ever,</hi> 1 Thess. 4. last.</p>
+            <p>In the mean time, <hi>Sathan,</hi> who <hi>had the Power of Death,</hi> is <hi>Chain'd</hi> down in his <hi>Abyss, Seal'd,</hi> and <hi>Imprison'd</hi> and All his <hi>Dead Feue<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d in the Four Corners of the Earth;</hi> And when Let loose for a <hi>short space,</hi> are Immediately <hi>Cast with Death it self into the Lake,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 20. last.</note>
+               <hi>that Burns with Fire and Brimstone,</hi> the <hi>Second Death;</hi> and are there at the greatest Distance from <hi>God All in All.</hi> And thus as the Apostle says, <hi>The Last Enemy Subdued is Death,</hi> just be<g ref="char:EOLhyphen"/>fore the <hi>Kingdom deliver'd up to God,</hi> and the <hi>Father,</hi> as in this Context.</p>
+            <p n="5">5. The <hi>Kingdom of Christ</hi> must prepare for the <hi>King<g ref="char:EOLhyphen"/>dom of God,</hi> and the <hi>Father,</hi> by preparing the Saints, both of the <hi>First Resurrection,</hi> and the <hi>Living Saints Changed</hi> for the Enjoyment of <hi>God All in All,</hi> First as Spirits; Then as Spirits in Bodies; having been in the highest Enjoyments of God, that in a State, wherein God is not in highest Sense, <hi>All in All</hi> Created Beings are Capable of; and therefore of highest Preparation for that State; They are therefore repeatedly said to be made <hi>King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 1.6. c. 5.10.</note> and <hi>Priests</hi> unto <hi>God</hi> and the <hi>Father;</hi> and unto <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d;</hi> and <hi>They are Priests of God,</hi> and of <hi>Christ,</hi>
+               <note place="margin">c. 20.6.</note> and <hi>Reign with him a Thousand Years.</hi>
+            </p>
+            <p>I would only add with Relation to this <hi>Kingdom of the Son of Man,</hi> that, Before it shall come <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto the Glo<g ref="char:EOLhyphen"/>ry of the <hi>Thousand Years;</hi> There shall be a Preparatory Opening of the <hi>Kingdom of Christ</hi> in the presen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> State of the World;<note place="margin">
+                  <hi>Rev.</hi> 10.7.</note> For when the <hi>Seventh Trumpet shall be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in to sound, The Mystery of God shall be finished, as he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ken in Gospel by his Servants the Prophets;</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the very Account of the <hi>Sevenths Angels Sounding</hi> is <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is,<note place="margin">c. 11.15.</note>
+               <hi>The Kingdoms of this World are become the Kingdoms of
+<pb n="39" facs="tcp:204290:23"/>the Lord, and of his Christ;</hi> But this being not Properly of the present Discourse, I proceed no further in it; but Summ up All in these Following Inferences, by way of Application.</p>
+            <p>
+               <hi>Infer.</hi> 1. We have before us the great Object of Con<g ref="char:EOLhyphen"/>templation, and continual humble Approach unto, tho' in our Present State, at so great Distances, the Fountain, from whence All that we See, or Know by Sense; or that our Minds can expatiate upon by Intellect, hath sprung, and into which All shall Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und hemselves, as into their Infinite Fountain, and Ocean, and to Eternity; All that hath been done by Him, in Creation, Providence, and even in Redemption, shall be seen in Him; and all the Sa<g ref="char:EOLhyphen"/>tisfaction and Enjoyment, that the Intellectual Creation have had in themselves, in one another, or in the whole Creation of God, or in the Government of it, shall be seen, and enjoyed in him <hi>All in All;</hi> and in an Infinity in him beyond all that hat, or can be done; and of Hap<g ref="char:EOLhyphen"/>piness in himself beyond All, that hath, or can be enjoy'd by Finite Beings And therefore Himself All in All, by Himself al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne Gives All Holy Angels, and Saints an Eter<g ref="char:EOLhyphen"/>nity of Unexpressible, Inconceivable Happiness, Fuliness of Joy, <hi>Pleasures for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vermore.</hi>
+            </p>
+            <p>Oh therefore that we could, even now, while we are here▪ continually meditate, and seek with our Hearts, and pursue with all our Might the Enjoyment of Him; And that <hi>His Right Hand would Graciously uphold us, in Following hard after him;</hi> And that we could argue with our Selves, what is the World, or the Things of it of Value, but as we find Him in them, and as they serve to support us by his Blessing, the <hi>Words that proceed out of his Mouth,</hi> in our Communion with him, in our present State▪ and while we are here! For if this Enjoyment be an whole
+<pb n="38" facs="tcp:204290:23"/>Eternity of Happiness, what can we enjoy without it now? Even to this doth Redemption lead; It is every where set before us in Scripture,<note place="margin">
+                  <hi>John</hi> 14.6. 1 <hi>Pet.</hi> 3.18. <hi>Ephes.</hi> 2.18.</note> We come to the Father 014 by Christ, <hi>He suffer'd to bring us to God, We have through him Access to the Father by one Spirit.</hi> Oh therefore, how should our Thoughts be upon the Divine Being it self!</p>
+            <p>
+               <hi>Infer.</hi> 2. This makes known to us the <hi>Ʋnsearchable Riches of Christ,</hi> and his Redemption, who alone h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th <hi>Redeemed us to God,</hi> and brings us by the several Steps of Redemption to <hi>God All in All;</hi> And beyond All, The Eternal Son of God in our Nature is both the Band of our <hi>Eternal Ʋnion with the Father,</hi> The <hi>Father in him, He in us;</hi> And He is the Conveyance of the Infinite Hap<g ref="char:EOLhyphen"/>piness, and Enjoyment of <hi>God All in All</hi> to us, as hath been made out.</p>
+            <p>
+               <hi>Infer.</hi> 3. The <hi>Kingdom of God All in All</hi> shews us the Unspeakable Misery of Lost Angels, and Men, Remov'd into a <hi>Lake</hi> of Greatest Distance from God, and the <hi>King<g ref="char:EOLhyphen"/>dom of God All in All;</hi> and know nothing of it, but in the Wrath, and Condemnation, that falls upon them, streaming out from his <hi>Holy Presence</hi> in Anger,<note place="margin">2 <hi>Thess.</hi> 1.9.</note> and Dis<g ref="char:EOLhyphen"/>pleasure, and the <hi>Glory of his Power,</hi> of which we may justly, even tremble to speak, or think of, and imme<g ref="char:EOLhyphen"/>diately <hi>Fly for Refuge to the Redeemer, The Deliverer f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m the Wrath to come, and ever to come.</hi>
+               <note place="margin">1 <hi>Thess.</hi> 1. ult. <hi>Heb.</hi> 12. ult.</note> For oh how dread<g ref="char:EOLhyphen"/>ful is it to think of <hi>God All in All,</hi> and <hi>He to us a Consum<g ref="char:EOLhyphen"/>ing Fire.</hi>
+            </p>
+            <p>
+               <hi>Infer.</hi> 4. This is the Great Assurance of the Truth of Christianity, and may satisfie all sincerely tender Spirits, on such Scruples, as <hi>Socintan,</hi> or <hi>Arrian</hi> Principles <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concerning the Glory of the <hi>Father One God.</hi> Seeing <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="40" facs="tcp:204290:24"/>Gospel so constantly affirms the Glory of the <hi>Onely True, God</hi> in the Majesty of the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather;</hi>
+               <note place="margin">
+                  <hi>John</hi> 17.3.</note> And as the Final Eternal Glory, and Happiness, The <hi>Kingdom of God,</hi> even the <hi>Father, All in All,</hi> to be our Absolute <hi>Eternal Life.</hi>
+            </p>
+            <p>
+               <hi>Infer.</hi> 5. The <hi>Kingdom of God All in All,</hi> and the <hi>Deli<g ref="char:EOLhyphen"/>very of it up</hi> is one Great Argument of the Distinct King<g ref="char:EOLhyphen"/>dom of the Medi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>or; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his is the Order in this Context, Christ does not <hi>Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gn,</hi> till the Resurrection; <hi>Christ the First Fruits, af<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erwa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds they who are Christ's at his Com<g ref="char:EOLhyphen"/>ing,</hi> at his <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppearing,</hi>
+               <note place="margin">2 <hi>Tim.</hi> 4.1.</note> and at his <hi>Kingdom</hi> together. Then it is immediately said, <hi>He Reigns, till he hath put all Enemies under his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eet; And the last Enemy to be subdued is Death;</hi> And <hi>then the Kingdom is deliver'd up.</hi> Now from the Fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st Resurre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion to the <hi>Casting Sathan</hi> and the <hi>Dead into the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake,</hi> The Spirit of God hath Re<g ref="char:EOLhyphen"/>peated, and Emphasiz'd <hi>This Thousand Years Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Inf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> 6. How Earnest should we be for the First Open<g ref="char:EOLhyphen"/>ing the <hi>Kingd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m of Christ,</hi> in Preparation for its Full Glory, for the First <hi>Soundings</hi> of the <hi>Angel</hi> of the <hi>Se<g ref="char:EOLhyphen"/>venth Trumpet;</hi> That the <hi>Mystery</hi> should be <hi>Finished;</hi> To Believe, and wait for Him, who <hi>Cometh Quickly,</hi> is the Truly <hi>Philadelphian Spirit.</hi> Let all such who have it hold it fast by Faith a <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prayer, that no One may Ravish this their <hi>Crown</hi> from Them; but that It may Remain for Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m a Memorial laid up in the Temple of the <hi>Lord,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 3.11. <hi>Zech.</hi> 6.14.</note> and that Themselves may be as <hi>Pillars in that Temple, Going out no more.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
